@@ -27,6 +27,7 @@ function App() {
       <p className="read-the-docs">
         Emmanuel Rangel Rosales
       </p>
+      <strong>Capacitacion michani</strong>
     </div>
   )
 }
